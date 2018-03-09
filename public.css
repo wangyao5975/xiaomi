@@ -1,0 +1,8 @@
+*{
+	margin: 0;   /* body-8px */
+	padding: 0;/* 标题标签 */
+	text-decoration: none;
+	/* color: #E4E0E0; */
+	font-style: normal;
+	list-style: none;/* 轮播图列表 */
+}
